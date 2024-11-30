@@ -41,6 +41,11 @@ import seaborn as sns
 # For model deployment
 import streamlit as st
 
+# Setting the page title
+# This title will only be visible when running the app locally.
+# In the deployed app, the title will be displayed as "Title - Streamlit," where "Title" is the one we provide.
+# If we don't set the title, it will default to "Streamlit"
+st.set_page_config(page_title="Credit Card Prediction")
 
 # Giving Title
 st.title("ML Algorithms on Credit Card Dataset")
