@@ -1,8 +1,8 @@
 # Credit-Card-Prediction-Analysis
 This repository contains credit card prediction project that I made using Streamlit and Python programming language.
 
-<a href = "https://credit-card-prediction-analysis-y7ggxqr6zmrep76e7b2xku.streamlit.app/"><img width="960" title = "Website Image 1" alt="Website Image 1" src="https://github.com/user-attachments/assets/be40c22b-6cfa-4ab7-9134-bb2dc79e00e5"></a> <br><br>
-<a href = "https://credit-card-prediction-analysis-y7ggxqr6zmrep76e7b2xku.streamlit.app/"><img width="960" title = "Website Image 2" alt="Website Image 2" src="https://github.com/user-attachments/assets/11cfec4d-d5e1-4a60-8120-c56640f847408"></a>
+<a href = "https://credit-card-prediction-analysis-y7ggxqr6zmrep76e7b2xku.streamlit.app/"><img width="960" title = "Website Image 1" alt="Website Image 1" src="https://github.com/user-attachments/assets/545fe38b-2896-4fb0-b241-080ba5773477"></a> <br><br>
+<a href = "https://credit-card-prediction-analysis-y7ggxqr6zmrep76e7b2xku.streamlit.app/"><img width="960" title = "Website Image 2" alt="Website Image 2" src="https://github.com/user-attachments/assets/acbc9ddc-af27-43de-82fb-1b39544d339d"></a>
 
 ---
 ## Mode of Execution Used <img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40">&nbsp;<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" title="Streamlit" alt="Streamlit" width="40" height="40">
